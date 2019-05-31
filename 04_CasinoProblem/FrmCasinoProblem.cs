@@ -19,7 +19,7 @@ namespace _04_CasinoProblem
 
 
         //At a casino, the following game is played between a player and the banker.The player pays the banker
-        //17. The banker then pays the player $1, and spins the wheel again.Suppose the number this time is 24. The
+        //$7.5 . The banker then pays the player $1, and spins the wheel again.Suppose the number this time is 24. The
         //banker pays another $1, and the process continues until a number is produced which has already occured.
         //Suppose the sequence of numbers is 17,24,18,31. The banker has paid the player $4.00 . At the next turn of the
         //wheel the number is 18 (a number already produced). At this point the game ends, and the player has lost
